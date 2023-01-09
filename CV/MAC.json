@@ -159,6 +159,10 @@
           "name": "React Native",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Frontend Developer",
+        "Full-stack Developer"
       ]
     },
     "status": "searchingActively"
