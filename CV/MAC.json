@@ -15,9 +15,22 @@
         "link": ""
       },
       "location": {
+        "country": "España",
+        "region": "Islas Baleares",
+        "municipality": "Palma",
         "notes": "Autocompleted using Google Maps API"
       }
-    }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/tmayolgomila"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/tomeumayol/"
+      }
+    ]
   },
   "experience": {
     "jobs": [
@@ -102,6 +115,14 @@
     ]
   },
   "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/tomeumayol/"
+        }
+      ]
+    },
     "status": "searchingActively"
   }
 }
