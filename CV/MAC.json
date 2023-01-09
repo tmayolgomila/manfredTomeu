@@ -1,0 +1,107 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Tomeu ",
+      "surnames": "Mayol Gomila",
+      "title": "Soy Tomeu Mayol, FullStack developer en Mallorca.",
+      "description": "Tengo un background de 6 años como mecánico, los últimos tres en la industria naval, este último año me animé a cambiar de sector y  he realizada un bootcamp en la academia 4Geeks.\nMe apasiona programar desde entonces, he priorizado Javascript y más concretamente he desarrollado en React aunque estoy abierto a descubrir nuevos lenguajes y tecnologías. Durante este tiempo también he visto Python, HTML, CSS y he realizado varios cursos de UX/UI. \nBusco una primera experiencia en el sector que me resulte un reto y donde pueda expandir lo aprendido hasta ahora.\nMe gusta trabajar en equipo, en mis anteriores experiencias laborales era común trabajar en grupo y es la parte del trabajo en la que más he aprendido.\nFinalmente, decir que lo que se puede esperar de mi es ilusión, trabajo, perseverancia y ganas de seguir aprendiendo cada día.",
+      "avatar": {
+        "alt": "",
+        "link": ""
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API"
+      }
+    }
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "TBD"
+        },
+        "roles": [
+          {
+            "name": "TBD",
+            "startDate": "2023-01-09",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Astilleros de Mallorca"
+        },
+        "roles": [
+          {
+            "name": "Mecánico Naval Oficial 1ª",
+            "startDate": "2019-10-01",
+            "finishDate": "2022-03-01",
+            "challenges": [
+              {
+                "description": "Reparación de yates de gran eslora, desde el montaje de ejes y hélices hasta la alineación de sus motores."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Potencia(Palma de Mallorca)"
+        },
+        "roles": [
+          {
+            "name": "Mecánico Industrial",
+            "startDate": "2017-09-01",
+            "finishDate": "2019-10-01",
+            "challenges": [
+              {
+                "description": "Revisión y reparación de maquinaria de construcción."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "status": "searchingActively"
+  }
+}
