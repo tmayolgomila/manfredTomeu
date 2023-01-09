@@ -87,6 +87,16 @@
     ]
   },
   "knowledge": {
+    "languages": [
+      {
+        "name": "Catalan",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "English",
+        "level": "Full professional proficiency"
+      }
+    ],
     "hardSkills": [
       {
         "skill": {
