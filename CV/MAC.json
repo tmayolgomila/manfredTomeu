@@ -127,25 +127,25 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "HTML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "CSS",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "React",
+          "name": "JavaScript",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "JavaScript",
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
           "type": "technology"
         }
       }
@@ -193,5 +193,25 @@
       ]
     },
     "status": "openToOffers"
+  },
+  "asgardPreferences": {
+    "mainStackTechs": [
+      {
+        "name": "CSS",
+        "type": "technology"
+      },
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "HTML",
+        "type": "technology"
+      },
+      {
+        "name": "Vue",
+        "type": "technology"
+      }
+    ]
   }
 }
