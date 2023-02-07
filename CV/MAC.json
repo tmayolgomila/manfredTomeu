@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -10,15 +10,10 @@
       "surnames": "Mayol Gomila",
       "title": "Soy Tomeu Mayol, FullStack developer en Mallorca.",
       "description": "Tengo un background de 6 años como mecánico, los últimos tres en la industria naval, este último año me animé a cambiar de sector y  he realizada un bootcamp en la academia 4Geeks.\nMe apasiona programar desde entonces, he priorizado Javascript y más concretamente he desarrollado en React aunque estoy abierto a descubrir nuevos lenguajes y tecnologías. Durante este tiempo también he visto Python, HTML, CSS y he realizado varios cursos de UX/UI. \nBusco una primera experiencia en el sector que me resulte un reto y donde pueda expandir lo aprendido hasta ahora.\nMe gusta trabajar en equipo, en mis anteriores experiencias laborales era común trabajar en grupo y es la parte del trabajo en la que más he aprendido.\nFinalmente, decir que lo que se puede esperar de mi es ilusión, trabajo, perseverancia y ganas de seguir aprendiendo cada día.",
-      "avatar": {
-        "alt": "",
-        "link": ""
-      },
       "location": {
         "country": "España",
         "region": "Islas Baleares",
-        "municipality": "Palma",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Palma"
       }
     },
     "relevantLinks": [
@@ -36,15 +31,42 @@
     "jobs": [
       {
         "organization": {
-          "name": "TBD"
+          "name": "E-Tech Yachting",
+          "image": {
+            "alt": "logo e-tech.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/07/40cb77f6-7d3e-4140-9cda-97b60ffc6af7_logo-e-tech.jpeg"
+          },
+          "URL": "https://www.etechyachting.com/"
         },
         "roles": [
           {
-            "name": "TBD",
+            "name": "Design Frontend Developer",
             "startDate": "2023-01-09",
             "challenges": [
               {
-                "description": "TBD"
+                "description": "Desarrollador Frontend de Bluewave, la aplicación de E-Tech Yachting, empresa especializada en electrónica naval, mi trabajo es desarrollar componentes de Vue3 que van a recibir los datos de todos los parámetros del barco, estos componentes van a mostrarlos e interactuar con ellos, por ejemplo apagando o encendiendo una bomba de agua o disparando y silenciando una alarma de la embarcación."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Bootstrap",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
               }
             ]
           }
@@ -89,12 +111,10 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Catalan",
-        "level": "Native or bilingual proficiency"
+        "name": "Catalan"
       },
       {
-        "name": "English",
-        "level": "Full professional proficiency"
+        "name": "English"
       }
     ],
     "hardSkills": [
@@ -164,7 +184,6 @@
         "Frontend Developer",
         "Full-stack Developer"
       ]
-    },
-    "status": "searchingActively"
+    }
   }
 }
