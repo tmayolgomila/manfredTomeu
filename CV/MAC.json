@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -10,10 +10,15 @@
       "surnames": "Mayol Gomila",
       "title": "Soy Tomeu Mayol, FullStack developer en Mallorca.",
       "description": "Tengo un background de 6 años como mecánico, los últimos tres en la industria naval, este último año me animé a cambiar de sector y  he realizada un bootcamp en la academia 4Geeks.\nMe apasiona programar desde entonces, he priorizado Javascript y más concretamente he desarrollado en React aunque estoy abierto a descubrir nuevos lenguajes y tecnologías. Durante este tiempo también he visto Python, HTML, CSS y he realizado varios cursos de UX/UI. \nBusco una primera experiencia en el sector que me resulte un reto y donde pueda expandir lo aprendido hasta ahora.\nMe gusta trabajar en equipo, en mis anteriores experiencias laborales era común trabajar en grupo y es la parte del trabajo en la que más he aprendido.\nFinalmente, decir que lo que se puede esperar de mi es ilusión, trabajo, perseverancia y ganas de seguir aprendiendo cada día.",
+      "avatar": {
+        "alt": "fotoPerfil.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/07/dbe5fe4d-7683-4464-af31-5cf4bb87f0f8_fotoperfil.jpg"
+      },
       "location": {
         "country": "España",
         "region": "Islas Baleares",
-        "municipality": "Palma"
+        "municipality": "Palma",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -111,10 +116,12 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Catalan"
+        "name": "Catalan",
+        "level": "Native or bilingual proficiency"
       },
       {
-        "name": "English"
+        "name": "English",
+        "level": "Full professional proficiency"
       }
     ],
     "hardSkills": [
@@ -184,6 +191,7 @@
         "Frontend Developer",
         "Full-stack Developer"
       ]
-    }
+    },
+    "status": "openToOffers"
   }
 }
