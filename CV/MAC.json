@@ -150,6 +150,34 @@
         }
       }
     ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Full Stack Developer",
+        "startDate": "2022-05-01",
+        "institution": {
+          "name": "4Geeks Academy",
+          "description": "Titulo de Full Stack Developer en 4Geeks Academy",
+          "URL": "https://4geeksacademy.com/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/16/cf093192-07b6-4f09-a297-f9bd9fc724e6_bdt_logo_becas_geeks.jpg",
+            "alt": "BDT_logo_becas_geeks_v2.jpg"
+          }
+        },
+        "finishDate": "2022-08-01",
+        "linkedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          }
+        ]
+      }
+    ],
     "softSkills": [
       {
         "skill": {
@@ -239,6 +267,10 @@
       },
       {
         "name": "React",
+        "type": "technology"
+      },
+      {
+        "name": "Tailwind",
         "type": "technology"
       },
       {
