@@ -121,12 +121,6 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "JavaScript",
           "type": "technology"
         }
@@ -230,15 +224,15 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "CSS",
-        "type": "technology"
-      },
-      {
         "name": "JavaScript",
         "type": "technology"
       },
       {
         "name": "MySQL",
+        "type": "technology"
+      },
+      {
+        "name": "React",
         "type": "technology"
       },
       {
