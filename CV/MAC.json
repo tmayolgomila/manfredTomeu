@@ -139,6 +139,12 @@
       },
       {
         "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Vue",
           "type": "technology"
         }
