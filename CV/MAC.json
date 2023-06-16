@@ -127,12 +127,6 @@
       },
       {
         "skill": {
-          "name": "HTML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "JavaScript",
           "type": "technology"
         }
@@ -234,11 +228,11 @@
         "type": "technology"
       },
       {
-        "name": "HTML",
+        "name": "JavaScript",
         "type": "technology"
       },
       {
-        "name": "JavaScript",
+        "name": "MySQL",
         "type": "technology"
       },
       {
