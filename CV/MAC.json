@@ -139,6 +139,12 @@
       },
       {
         "skill": {
+          "name": "Tailwind",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Vue",
           "type": "technology"
         }
