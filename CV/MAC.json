@@ -20,7 +20,14 @@
         "region": "Islas Baleares",
         "municipality": "Palma"
       }
-    }
+    },
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "https://www.tomeumayol.online/",
+        "description": "Portfolio"
+      }
+    ]
   },
   "experience": {
     "jobs": [
