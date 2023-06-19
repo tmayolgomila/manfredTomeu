@@ -101,6 +101,22 @@
           }
         ]
       }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "PORTFOLIO",
+          "URL": "https://www.tomeumayol.online/"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2023-01-01",
+            "finishDate": "2023-03-01"
+          }
+        ]
+      }
     ]
   },
   "knowledge": {
@@ -278,6 +294,11 @@
         "type": "technology"
       }
     ],
-    "desiredJobDescription": "Me gustaría trabajar en un proyecto que me suponga un reto y donde pueda aprender cada día. Valoro el trabajo en equipo y el apoyo entre compañeros."
+    "desiredJobDescription": "Me gustaría trabajar en un proyecto que me suponga un reto y donde pueda aprender cada día. Valoro el trabajo en equipo y el apoyo entre compañeros.",
+    "projects": [
+      {
+        "name": "PORTFOLIO"
+      }
+    ]
   }
 }
