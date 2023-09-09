@@ -29,7 +29,8 @@
       },
       {
         "type": "other",
-        "URL": "https://origin-xi.vercel.app/"
+        "URL": "https://origin-xi.vercel.app/",
+        "description": "Origin"
       }
     ]
   },
@@ -284,6 +285,10 @@
   },
   "manfredSpecificData": {
     "mainStackTechs": [
+      {
+        "name": "Go",
+        "type": "technology"
+      },
       {
         "name": "JavaScript",
         "type": "technology"
