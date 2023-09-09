@@ -148,6 +148,12 @@
     "hardSkills": [
       {
         "skill": {
+          "name": "Go",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "JavaScript",
           "type": "technology"
         }
