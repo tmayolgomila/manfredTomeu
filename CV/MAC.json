@@ -6,7 +6,7 @@
   },
   "aboutMe": {
     "profile": {
-      "name": "Tomeu ",
+      "name": "Tomeu",
       "surnames": "Mayol Gomila",
       "title": "Soy Tomeu Mayol, FullStack developer en Mallorca.",
       "description": "Soy un desarrollador con un background en el sector náutico donde he estado tanto en sala de máquinas como creando Bluewave, un sistema de monitoreo de alarmas y pantallas inteligentes que conecta todos los sistemas de un yate. \nSoy de Mallorca y me apasiona programar y estoy decidido a crecer y aceptar grandes retos en este sector.",
@@ -24,7 +24,12 @@
     "relevantLinks": [
       {
         "type": "other",
-        "URL": "https://www.tomeumayol.online/"
+        "URL": "https://www.tomeumayol.online/",
+        "description": "Portfolio"
+      },
+      {
+        "type": "other",
+        "URL": "https://origin-xi.vercel.app/blogs"
       }
     ]
   },
