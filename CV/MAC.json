@@ -23,14 +23,20 @@
     },
     "relevantLinks": [
       {
-        "type": "other",
-        "URL": "https://www.tomeumayol.online/",
-        "description": "Portfolio"
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/tomeumayol/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/tmayolgomila"
       },
       {
         "type": "other",
-        "URL": "https://origin-xi.vercel.app/",
-        "description": "Origin"
+        "URL": "https://www.tomeumayol.online/"
+      },
+      {
+        "type": "other",
+        "URL": "https://origin-xi.vercel.app/"
       }
     ]
   },
