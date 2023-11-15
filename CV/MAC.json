@@ -189,6 +189,30 @@
     ],
     "studies": [
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Frontend Developer (React) Certificate",
+        "startDate": "2023-11-01",
+        "institution": {
+          "name": "HackerRank",
+          "URL": "https://www.hackerrank.com/certificates/4bcee176eafa",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/15/727320cb-9d62-44c9-9007-8886a6a33664_600px-hackerrank_ico.png",
+            "alt": "600px-HackerRank_Icon-1000px.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Full Stack Developer",
