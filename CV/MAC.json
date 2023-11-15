@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -141,14 +141,17 @@
     "languages": [
       {
         "name": "CA",
+        "fullName": "Catalán",
         "level": "Native or bilingual proficiency"
       },
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Full professional proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       }
     ],
@@ -207,6 +210,26 @@
           },
           {
             "name": "React",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "JavaScript (Basic) Certificate",
+        "startDate": "2023-11-01",
+        "institution": {
+          "name": "HackerRank",
+          "URL": "https://www.hackerrank.com/certificates/fa777859f4af",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/15/144b8acf-8af7-48d7-a7db-b5fa40ed4a0c_600px-hackerrank_ico.png",
+            "alt": "600px-HackerRank_Icon-1000px.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JavaScript",
             "type": "technology"
           }
         ]
