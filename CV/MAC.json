@@ -141,7 +141,7 @@
     "languages": [
       {
         "name": "CA",
-        "fullName": "Catalán",
+        "fullName": "Catalán / Valenciano",
         "level": "Native or bilingual proficiency"
       },
       {
@@ -294,12 +294,6 @@
       ],
       "contactMails": [
         "tmayolgomila@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "644479147",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
