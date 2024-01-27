@@ -2,7 +2,7 @@
 
 # Tomeu Mayol Gomila's CV
 
-This repository contains **my professional data**, stored as a [MAC](/CV/MAC.json) (or Manfred Awesomic CV), an open-source, interchangeable, machine-readable format.
+This repository contains **my professional data**, stored as a [MAC](/CV/MAC.json) (or Manfred Awesomic CV), an open-source, interchangeable, machine-readable format. It's also synchronized with [my profile in Manfred](https://getmanfred.com/profile/3b129cc4-add2-4479-9eb2-402398a594fa).
 <br/>
 <br/>
 
