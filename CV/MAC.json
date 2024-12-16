@@ -8,8 +8,8 @@
     "profile": {
       "name": "Tomeu",
       "surnames": "Mayol Gomila",
-      "title": "Soy Tomeu Mayol, FullStack developer en Mallorca.",
-      "description": "Soy un desarrollador con un background en el sector náutico donde he estado tanto en sala de máquinas como desarrollando Bluewave, un sistema de monitoreo de alarmas y pantallas inteligentes que conecta todos los sistemas de un yate creado con Vue 3 y Golang. \nSoy de Mallorca y me apasiona programar y estoy decidido a crecer y aceptar grandes retos en este sector.",
+      "title": "Frontend Developer. Vue3, React.JS, Tailwind, Bootstrap.",
+      "description": "FullStack developer, con más de tres años de experiencia en mecánica naval.\nLenguajes desarrollados: Vue3, React, Go, HTML5, CSS3, Python.\nAquí está el enlace a mi portafolio: tomeumayol.online",
       "avatar": {
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/07/dbe5fe4d-7683-4464-af31-5cf4bb87f0f8_fotoperfil.jpg",
         "alt": "fotoPerfil.jpg"
@@ -40,42 +40,15 @@
     "jobs": [
       {
         "organization": {
-          "name": "E-Tech Yachting",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/07/40cb77f6-7d3e-4140-9cda-97b60ffc6af7_logo-e-tech.jpeg",
-            "alt": "logo e-tech.jpeg"
-          },
-          "URL": "https://www.etechyachting.com/"
+          "name": "ETY [E-TECH YACHTING] - Marine Electrical Services"
         },
         "roles": [
           {
-            "name": "Design Frontend Developer - Vue",
-            "startDate": "2023-01-09",
+            "name": "Design Frontend Developer",
+            "startDate": "2023-01-01",
             "challenges": [
               {
-                "description": "Desarrollador Frontend de Bluewave, la aplicación de E-Tech Yachting, empresa especializada en electrónica naval, mi trabajo es desarrollar componentes de Vue3 que van a recibir los datos de todos los parámetros del barco, estos componentes van a mostrarlos e interactuar con ellos, por ejemplo apagando o encendiendo una bomba de agua o disparando y silenciando una alarma de la embarcación."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Bootstrap",
-                "type": "technology"
-              },
-              {
-                "name": "CSS",
-                "type": "technology"
-              },
-              {
-                "name": "HTML",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "Vue",
-                "type": "technology"
+                "description": "Skills: Vue.js"
               }
             ]
           }
@@ -83,35 +56,13 @@
       },
       {
         "organization": {
-          "name": "Astilleros de Mallorca"
+          "name": "Astilleros de Mallorca - Refit and Repair Shipyard"
         },
         "roles": [
           {
-            "name": "Mecánico Naval Oficial 1ª",
+            "name": "Mecánico Naval",
             "startDate": "2019-10-01",
-            "finishDate": "2022-03-01",
-            "challenges": [
-              {
-                "description": "Reparación de yates de gran eslora, desde el montaje de ejes y hélices hasta la alineación de sus motores."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Potencia(Palma de Mallorca)"
-        },
-        "roles": [
-          {
-            "name": "Mecánico Industrial",
-            "startDate": "2017-09-01",
-            "finishDate": "2019-10-01",
-            "challenges": [
-              {
-                "description": "Revisión y reparación de maquinaria de construcción."
-              }
-            ]
+            "finishDate": "2022-06-30"
           }
         ]
       }
@@ -154,13 +105,43 @@
     "hardSkills": [
       {
         "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Go",
           "type": "technology"
         }
       },
       {
         "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
           "type": "technology"
         }
       },
@@ -179,74 +160,14 @@
     ],
     "studies": [
       {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Frontend Developer (React) Certificate",
-        "startDate": "2023-11-01",
-        "institution": {
-          "name": "HackerRank",
-          "URL": "https://www.hackerrank.com/certificates/4bcee176eafa",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/15/727320cb-9d62-44c9-9007-8886a6a33664_600px-hackerrank_ico.png",
-            "alt": "600px-HackerRank_Icon-1000px.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "JavaScript",
-            "type": "technology"
-          },
-          {
-            "name": "React",
-            "type": "technology"
-          }
-        ]
-      },
-      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Full Stack Developer",
+        "name": "Fullstack developer",
         "startDate": "2022-05-01",
         "institution": {
-          "name": "4Geeks Academy",
-          "description": "Titulo de Full Stack Developer en 4Geeks Academy",
-          "URL": "https://4geeksacademy.com/",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/16/cf093192-07b6-4f09-a297-f9bd9fc724e6_bdt_logo_becas_geeks.jpg",
-            "alt": "BDT_logo_becas_geeks_v2.jpg"
-          }
+          "name": "4Geeks Academy España"
         },
-        "finishDate": "2022-08-01",
-        "linkedCompetences": [
-          {
-            "name": "Python",
-            "type": "technology"
-          },
-          {
-            "name": "React",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "JavaScript (Basic) Certificate",
-        "startDate": "2023-11-01",
-        "institution": {
-          "name": "HackerRank",
-          "URL": "https://www.hackerrank.com/certificates/fa777859f4af",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/15/144b8acf-8af7-48d7-a7db-b5fa40ed4a0c_600px-hackerrank_ico.png",
-            "alt": "600px-HackerRank_Icon-1000px.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "JavaScript",
-            "type": "technology"
-          }
-        ]
+        "finishDate": "2022-09-30"
       }
     ],
     "softSkills": [
