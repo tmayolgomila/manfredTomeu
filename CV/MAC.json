@@ -292,15 +292,7 @@
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "Python",
-          "type": "technology"
-        },
-        {
-          "name": "React",
-          "type": "technology"
-        },
-        {
-          "name": "React Native",
+          "name": "Vue",
           "type": "technology"
         }
       ],
