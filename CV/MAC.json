@@ -292,6 +292,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "Tailwind",
+          "type": "technology"
+        },
+        {
           "name": "Vue",
           "type": "technology"
         }
