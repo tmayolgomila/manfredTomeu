@@ -160,12 +160,6 @@
       },
       {
         "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "React",
           "type": "technology"
         }
@@ -315,10 +309,6 @@
     "mainStackTechs": [
       {
         "name": "Go",
-        "type": "technology"
-      },
-      {
-        "name": "JavaScript",
         "type": "technology"
       },
       {
