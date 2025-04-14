@@ -207,6 +207,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "Go",
+          "type": "technology"
+        },
+        {
           "name": "React",
           "type": "technology"
         },
