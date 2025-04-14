@@ -40,11 +40,11 @@
         },
         "roles": [
           {
-            "name": "Design Frontend Developer",
+            "name": "Fullstack Lead Developer",
             "startDate": "2023-01-01",
             "challenges": [
               {
-                "description": "Skills: Vue.js"
+                "description": "Skills: Vue.js, Go, NodeJS"
               }
             ]
           }
